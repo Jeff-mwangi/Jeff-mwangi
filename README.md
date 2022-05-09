@@ -50,4 +50,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [Introduction to C#](https://www.section.io/engineering-education/introduction-to-csharp/)
 - [Multithreading in Java](https://www.section.io/engineering-education/multithreading-in-java/)
 - [Introduction to Collections in C#](https://www.section.io/engineering-education/c-sharp-collections/)
+- [Read more...](https://www.section.io/engineering-education/authors/geoffrey-mwangi/)
 <!-- BLOG-POST-LIST:END -->
