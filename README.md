@@ -38,7 +38,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### 🔥 &nbsp; My Stats :
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeff-mwangi&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Jeff contributions" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeff-mwangi&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=cf8f42&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Jeff contributions" />
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jeff-mwangi&layout=compact&theme=vision-friendly-dark)](#)
